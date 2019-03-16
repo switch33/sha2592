@@ -2,5 +2,11 @@ lorem ipsum ipsum som som sum sum ok ok ok ko kook kooook kooooook ok
 // sha2592
 //add on the text "tns32" to stop the hash
 
+keydb $10
+//0 add integer txt 25
+
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#
+
+
 lorem ipsum ipsum som som sum sum ok ok ok ko kook kooook kooooook ok tns32
 //this is an example stopping it
