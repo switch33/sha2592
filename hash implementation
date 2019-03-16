@@ -5,7 +5,7 @@ lorem ipsum ipsum som som sum sum ok ok ok ko kook kooook kooooook ok
 keydb $10
 //0 add integer txt 25
 
-//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $# where # is a number of keys
 
 
 lorem ipsum ipsum som som sum sum ok ok ok ko kook kooook kooooook ok tns32
